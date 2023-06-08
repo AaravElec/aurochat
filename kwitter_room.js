@@ -1,11 +1,12 @@
-var firebaseConfig = {
-  apiKey: "AIzaSyBQyjrjTsIQsGMGcgu-cr1HjszcHi5ZWMk",
-  authDomain: "testkwitter.firebaseapp.com",
-  databaseURL: "https://testkwitter.firebaseio.com",
-  projectId: "testkwitter",
-  storageBucket: "testkwitter.appspot.com",
-  messagingSenderId: "624653701634",
-  appId: "1:624653701634:web:2cb9a8bd873f17d92d8d1b"
+const firebaseConfig = {
+  apiKey: "AIzaSyBDoLJsgAWaGNl2KksLJyA2snmwvA9yZcE",
+  authDomain: "database-2d013.firebaseapp.com",
+  databaseURL: "https://database-2d013-default-rtdb.firebaseio.com",
+  projectId: "database-2d013",
+  storageBucket: "database-2d013.appspot.com",
+  messagingSenderId: "481719040561",
+  appId: "1:481719040561:web:ea95c021583a3246667310",
+  measurementId: "G-EXQ0X3GFHL"
 };
 
 
